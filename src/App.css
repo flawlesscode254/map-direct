@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.marker{
+  cursor: pointer;
+}
+
+.form_one{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.fill{
+  margin: 10px;
+}
